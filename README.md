@@ -1,4 +1,4 @@
-### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=osalyer02.osalyer02&left_color=green&right_color=red)
 
 <!--
 **osalyer02/osalyer02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
