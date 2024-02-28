@@ -1,3 +1,7 @@
+# Owen Salyer
+Senior computer science student at Ohio University, interested in data science and AI/ML.
+Currently working on a personal website and an NLP project.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
